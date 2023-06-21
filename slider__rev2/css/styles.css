@@ -106,8 +106,7 @@ body * {
 }
 .projects__content--2 {
     display: flex;
-    flex-direction: column;
-   
+    flex-direction: column; 
 }
 .projects__nav-list{
     display: flex;
@@ -118,8 +117,6 @@ body * {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.3);
 }
-
-
 /*----------*/
 .btn {
     color: rgba(255, 255, 255, 0.3);
